@@ -1,6 +1,7 @@
 # Secure Two-Party Differentially Private Data Release for Vertically Partitioned Data
 --	Zenith Gupta 22125041 DSAI
 
+We use the openly available dataset 'adult' https://archive.ics.uci.edu/dataset/2/adult
 Vertically partitioned data means that 2 or more parties have different features of data for the same sample of population. For example, P1 has peoples age and height and P2 has for the same people their weight and income. 
 Our aim is to create a differentially private dataset so that no information is leaked while getting better predictive results.
 How we do this is:
